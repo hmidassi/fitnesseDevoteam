@@ -1,0 +1,16 @@
+|Given Fabric|
+|name|price|
+|coton|2.00|
+|satin|4.00|
+|lin|5.00|
+
+
+|Given Customer|
+|name|type|
+|Gérard Tartempion|INDIVIDUAL|
+|Couture Inc.|PROFESSIONAL|
+
+|Compute price for customer|
+|customer name|fabric name|length|total price?|
+|Gérard Tartempion|coton|3|7.20|
+|Couture Inc.|satin|30|120.00|
