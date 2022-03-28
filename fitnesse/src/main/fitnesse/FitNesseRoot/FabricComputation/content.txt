@@ -1,16 +1,6 @@
-|Given Fabric|
-|name|price|
-|coton|2.00|
-|satin|4.00|
-|lin|5.00|
+!path C:\Users\hedym\IdeaProjects\fitnesseDevoteam\fitnesse\target\classes
 
-
-|Given Customer|
-|name|type|
-|Gérard Tartempion|INDIVIDUAL|
-|Couture Inc.|PROFESSIONAL|
-
-|Compute price for customer|
-|customer name|fabric name|length|total price?|
-|Gérard Tartempion|coton|3|7.20|
-|Couture Inc.|satin|30|120.00|
+|Compute Price For Customer|
+|customer name|customer type|fabric name|fabric price|length|total price?|
+|Gérard Tartempion|INDIVIDUAL|coton|2.00|3|7.20|
+|Couture Inc.|PROFESSIONAL|satin|4.00|30|120.00|
